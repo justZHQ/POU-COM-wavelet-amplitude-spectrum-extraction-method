@@ -1,0 +1,1 @@
+# POU-COM-wavelet-amplitude-spectrum-extraction-method
